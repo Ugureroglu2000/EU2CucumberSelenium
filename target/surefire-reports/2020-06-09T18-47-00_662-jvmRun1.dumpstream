@@ -1,0 +1,624 @@
+# Created at 2020-06-09T18:48:25.248
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+
+# Created at 2020-06-09T18:48:29.864
+Unexpected IOException with stream: [
+
+# Created at 2020-06-09T18:48:29.874
+Unexpected IOException with stream: 1
+
+# Created at 2020-06-09T18:48:29.876
+Unexpected IOException with stream: 5
+
+# Created at 2020-06-09T18:48:29.877
+Unexpected IOException with stream: 9
+
+# Created at 2020-06-09T18:48:29.878
+Unexpected IOException with stream: 1
+
+# Created at 2020-06-09T18:48:29.880
+Unexpected IOException with stream: 7
+
+# Created at 2020-06-09T18:48:29.881
+Unexpected IOException with stream: 2
+
+# Created at 2020-06-09T18:48:29.882
+Unexpected IOException with stream: 4
+
+# Created at 2020-06-09T18:48:29.884
+Unexpected IOException with stream: 9
+
+# Created at 2020-06-09T18:48:29.884
+Unexpected IOException with stream: 0
+
+# Created at 2020-06-09T18:48:29.885
+Unexpected IOException with stream: 9
+
+# Created at 2020-06-09T18:48:29.886
+Unexpected IOException with stream: .
+
+# Created at 2020-06-09T18:48:29.888
+Unexpected IOException with stream: 8
+
+# Created at 2020-06-09T18:48:29.889
+Unexpected IOException with stream: 6
+
+# Created at 2020-06-09T18:48:29.890
+Unexpected IOException with stream: 3
+
+# Created at 2020-06-09T18:48:29.891
+Unexpected IOException with stream: ]
+
+# Created at 2020-06-09T18:48:29.891
+Unexpected IOException with stream: [
+
+# Created at 2020-06-09T18:48:29.892
+Unexpected IOException with stream: W
+
+# Created at 2020-06-09T18:48:29.893
+Unexpected IOException with stream: A
+
+# Created at 2020-06-09T18:48:29.893
+Unexpected IOException with stream: R
+
+# Created at 2020-06-09T18:48:29.894
+Unexpected IOException with stream: N
+
+# Created at 2020-06-09T18:48:29.894
+Unexpected IOException with stream: I
+
+# Created at 2020-06-09T18:48:29.894
+Unexpected IOException with stream: N
+
+# Created at 2020-06-09T18:48:29.895
+Unexpected IOException with stream: G
+
+# Created at 2020-06-09T18:48:29.895
+Unexpected IOException with stream: ]
+
+# Created at 2020-06-09T18:48:29.896
+Unexpected IOException with stream: :
+
+# Created at 2020-06-09T18:48:29.896
+Unexpected IOException with stream:  
+
+# Created at 2020-06-09T18:48:29.897
+Unexpected IOException with stream: T
+
+# Created at 2020-06-09T18:48:29.897
+Unexpected IOException with stream: i
+
+# Created at 2020-06-09T18:48:29.898
+Unexpected IOException with stream: m
+
+# Created at 2020-06-09T18:48:29.898
+Unexpected IOException with stream: e
+
+# Created at 2020-06-09T18:48:29.899
+Unexpected IOException with stream: d
+
+# Created at 2020-06-09T18:48:29.899
+Unexpected IOException with stream:  
+
+# Created at 2020-06-09T18:48:29.899
+Unexpected IOException with stream: o
+
+# Created at 2020-06-09T18:48:29.900
+Unexpected IOException with stream: u
+
+# Created at 2020-06-09T18:48:29.900
+Unexpected IOException with stream: t
+
+# Created at 2020-06-09T18:48:29.902
+Unexpected IOException with stream:  
+
+# Created at 2020-06-09T18:48:29.902
+Unexpected IOException with stream: c
+
+# Created at 2020-06-09T18:48:29.902
+Unexpected IOException with stream: o
+
+# Created at 2020-06-09T18:48:29.902
+Unexpected IOException with stream: n
+
+# Created at 2020-06-09T18:48:29.903
+Unexpected IOException with stream: n
+
+# Created at 2020-06-09T18:48:29.903
+Unexpected IOException with stream: e
+
+# Created at 2020-06-09T18:48:29.904
+Unexpected IOException with stream: c
+
+# Created at 2020-06-09T18:48:29.904
+Unexpected IOException with stream: t
+
+# Created at 2020-06-09T18:48:29.905
+Unexpected IOException with stream: i
+
+# Created at 2020-06-09T18:48:29.905
+Unexpected IOException with stream: n
+
+# Created at 2020-06-09T18:48:29.905
+Unexpected IOException with stream: g
+
+# Created at 2020-06-09T18:48:29.906
+Unexpected IOException with stream:  
+
+# Created at 2020-06-09T18:48:29.906
+Unexpected IOException with stream: t
+
+# Created at 2020-06-09T18:48:29.907
+Unexpected IOException with stream: o
+
+# Created at 2020-06-09T18:48:29.908
+Unexpected IOException with stream:  
+
+# Created at 2020-06-09T18:48:29.908
+Unexpected IOException with stream: C
+
+# Created at 2020-06-09T18:48:29.908
+Unexpected IOException with stream: h
+
+# Created at 2020-06-09T18:48:29.909
+Unexpected IOException with stream: r
+
+# Created at 2020-06-09T18:48:29.909
+Unexpected IOException with stream: o
+
+# Created at 2020-06-09T18:48:29.909
+Unexpected IOException with stream: m
+
+# Created at 2020-06-09T18:48:29.911
+Unexpected IOException with stream: e
+
+# Created at 2020-06-09T18:48:29.911
+Unexpected IOException with stream: ,
+
+# Created at 2020-06-09T18:48:29.911
+Unexpected IOException with stream:  
+
+# Created at 2020-06-09T18:48:29.912
+Unexpected IOException with stream: r
+
+# Created at 2020-06-09T18:48:29.912
+Unexpected IOException with stream: e
+
+# Created at 2020-06-09T18:48:29.913
+Unexpected IOException with stream: t
+
+# Created at 2020-06-09T18:48:29.913
+Unexpected IOException with stream: r
+
+# Created at 2020-06-09T18:48:29.914
+Unexpected IOException with stream: y
+
+# Created at 2020-06-09T18:48:29.914
+Unexpected IOException with stream: i
+
+# Created at 2020-06-09T18:48:29.915
+Unexpected IOException with stream: n
+
+# Created at 2020-06-09T18:48:29.915
+Unexpected IOException with stream: g
+
+# Created at 2020-06-09T18:48:29.916
+Unexpected IOException with stream: .
+
+# Created at 2020-06-09T18:48:29.916
+Unexpected IOException with stream: .
+
+# Created at 2020-06-09T18:48:29.917
+Unexpected IOException with stream: .
+
+# Created at 2020-06-09T18:48:29.917
+Unexpected IOException with stream: 
+
+# Created at 2020-06-09T18:48:29.918
+Unexpected IOException with stream: 
+
+
+# Created at 2020-06-09T18:48:37.895
+Unexpected IOException: 7,1,Contacts page,Menu options(Contacts page),null,chrome not reachable\000A  (Session info: chrome=83.0.4103.61)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-HLEND38'\002C ip: '192.168.43.223'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.61\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005CHP\005CAppData\005CLocal\005CT...}\002C goog:chromeOptions: {debuggerAddress: localhost:60179}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: c72f90387c91522b1d042d325806c6b3,null,chrome not reachable\000A  (Session info: chrome=83.0.4103.61)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-HLEND38'\002C ip: '192.168.43.223'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.61\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005CHP\005CAppData\005CLocal\005CT...}\002C goog:chromeOptions: {debuggerAddress: localhost:60179}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: c72f90387c91522b1d042d325806c6b3,chrome not reachable\000A  (Session info: chrome=83.0.4103.61)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-HLEND38'\002C ip: '192.168.43.223'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.61\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005CHP\005CAppData\005CLocal\005CT...}\002C goog:chromeOptions: {debuggerAddress: localhost:60179}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: c72f90387c91522b1d042d325806c6b3,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=83.0.4103.61)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-HLEND38'\002C ip: '192.168.43.223'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.61\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005CHP\005CAppData\005CLocal\005CT...}\002C goog:chromeOptions: {debuggerAddress: localhost:60179}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: c72f90387c91522b1d042d325806c6b3\000A
+
+
+# Created at 2020-06-09T18:48:37.897
+Unexpected IOException: 7,1,Contacts page,Menu options(Contacts page),null,chrome not reachable\000A  (Session info: chrome=83.0.4103.61)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-HLEND38'\002C ip: '192.168.43.223'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.61\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005CHP\005CAppData\005CLocal\005CT...}\002C goog:chromeOptions: {debuggerAddress: localhost:60179}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: c72f90387c91522b1d042d325806c6b3,null,chrome not reachable\000A  (Session info: chrome=83.0.4103.61)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-HLEND38'\002C ip: '192.168.43.223'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.61\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005CHP\005CAppData\005CLocal\005CT...}\002C goog:chromeOptions: {debuggerAddress: localhost:60179}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: c72f90387c91522b1d042d325806c6b3,chrome not reachable\000A  (Session info: chrome=83.0.4103.61)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-HLEND38'\002C ip: '192.168.43.223'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.61\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005CHP\005CAppData\005CLocal\005CT...}\002C goog:chromeOptions: {debuggerAddress: localhost:60179}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: c72f90387c91522b1d042d325806c6b3,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=83.0.4103.61)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-HLEND38'\002C ip: '192.168.43.223'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 83.0.4103.61\002C chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b...\002C userDataDir: C:\005CUsers\005CHP\005CAppData\005CLocal\005CT...}\002C goog:chromeOptions: {debuggerAddress: localhost:60179}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: c72f90387c91522b1d042d325806c6b3\000A
+
+
+# Created at 2020-06-09T18:48:37.939
+Unexpected IOException with stream: 
+
+
+# Created at 2020-06-09T18:48:37.940
+Unexpected IOException with stream: [31mFailed scenarios:[0m
+
+
+# Created at 2020-06-09T18:48:37.940
+Unexpected IOException with stream: [31mfile:///C:/Users/HP/IdeaProjects/fromgit/EU2CucumberSelenium/src/test/resources/features/contacts.feature:12[0m
+
+# Created at 2020-06-09T18:48:37.941
+Unexpected IOException with stream: # Verify Create Calendar Event
+
+
+# Created at 2020-06-09T18:48:37.941
+Unexpected IOException with stream: [31mfile:///C:/Users/HP/IdeaProjects/fromgit/EU2CucumberSelenium/src/test/resources/features/contacts.feature:18[0m
+
+# Created at 2020-06-09T18:48:37.942
+Unexpected IOException with stream: # Menu options
+
+
+# Created at 2020-06-09T18:48:37.943
+Unexpected IOException with stream: 
+
+
+# Created at 2020-06-09T18:48:37.943
+Unexpected IOException with stream: 3
+
+# Created at 2020-06-09T18:48:37.944
+Unexpected IOException with stream:  Scenarios (
+
+# Created at 2020-06-09T18:48:37.945
+Unexpected IOException with stream: [31m2 failed[0m
+
+# Created at 2020-06-09T18:48:37.946
+Unexpected IOException with stream: , 
+
+# Created at 2020-06-09T18:48:37.946
+Unexpected IOException with stream: [32m1 passed[0m
+
+# Created at 2020-06-09T18:48:37.947
+Unexpected IOException with stream: )
+
+
+# Created at 2020-06-09T18:48:37.947
+Unexpected IOException with stream: 9
+
+# Created at 2020-06-09T18:48:37.947
+Unexpected IOException with stream:  Steps (
+
+# Created at 2020-06-09T18:48:37.948
+Unexpected IOException with stream: [31m2 failed[0m
+
+# Created at 2020-06-09T18:48:37.948
+Unexpected IOException with stream: , 
+
+# Created at 2020-06-09T18:48:37.949
+Unexpected IOException with stream: [36m1 skipped[0m
+
+# Created at 2020-06-09T18:48:37.950
+Unexpected IOException with stream: , 
+
+# Created at 2020-06-09T18:48:37.950
+Unexpected IOException with stream: [32m6 passed[0m
+
+# Created at 2020-06-09T18:48:37.951
+Unexpected IOException with stream: )
+
+
+# Created at 2020-06-09T18:48:37.951
+Unexpected IOException with stream: 1m
+
+# Created at 2020-06-09T18:48:37.952
+Unexpected IOException with stream: 35.500s
+
+
+# Created at 2020-06-09T18:48:37.953
+Unexpected IOException with stream: 
+
+
+# Created at 2020-06-09T18:48:37.953
+Unexpected IOException with stream: 
+
+
+# Created at 2020-06-09T18:48:37.956
+Unexpected IOException with stream: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HLEND38', ip: '192.168.43.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60179}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c72f90387c91522b1d042d325806c6b3
+*** Element info: {Using=xpath, value=//span[normalize-space()='Calendar Events' and contains(@class, 'title title-level-2')]}
+
+
+# Created at 2020-06-09T18:48:37.957
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+
+# Created at 2020-06-09T18:48:37.957
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+
+
+# Created at 2020-06-09T18:48:37.958
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+
+# Created at 2020-06-09T18:48:37.958
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+
+
+# Created at 2020-06-09T18:48:37.959
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+
+
+# Created at 2020-06-09T18:48:37.959
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+
+
+# Created at 2020-06-09T18:48:37.960
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+
+
+# Created at 2020-06-09T18:48:37.960
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+
+
+# Created at 2020-06-09T18:48:37.962
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+
+# Created at 2020-06-09T18:48:37.963
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+
+# Created at 2020-06-09T18:48:37.963
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+
+# Created at 2020-06-09T18:48:37.964
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+
+
+# Created at 2020-06-09T18:48:37.964
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+
+
+# Created at 2020-06-09T18:48:37.965
+Unexpected IOException with stream: 	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+
+
+# Created at 2020-06-09T18:48:37.965
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+
+
+# Created at 2020-06-09T18:48:37.965
+Unexpected IOException with stream: 	at com.vytrack.pages.BasePage.navigateToModule(BasePage.java:113)
+
+
+# Created at 2020-06-09T18:48:37.966
+Unexpected IOException with stream: 	at com.vytrack.step_definitions.NavigationMenuSteps.the_user_navigates(NavigationMenuSteps.java:61)
+
+
+# Created at 2020-06-09T18:48:37.967
+Unexpected IOException with stream: 	at ?.the user navigates "Activities" "Calendar Events"(file:///C:/Users/HP/IdeaProjects/fromgit/EU2CucumberSelenium/src/test/resources/features/contacts.feature:15)
+
+
+# Created at 2020-06-09T18:48:37.967
+Unexpected IOException with stream: 
+
+
+# Created at 2020-06-09T18:48:37.968
+Unexpected IOException with stream: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HLEND38', ip: '192.168.43.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60179}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c72f90387c91522b1d042d325806c6b3
+
+
+# Created at 2020-06-09T18:48:37.969
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+
+# Created at 2020-06-09T18:48:37.969
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+
+
+# Created at 2020-06-09T18:48:37.970
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+
+# Created at 2020-06-09T18:48:37.971
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+
+
+# Created at 2020-06-09T18:48:37.972
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+
+
+# Created at 2020-06-09T18:48:37.974
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+
+
+# Created at 2020-06-09T18:48:37.975
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+
+
+# Created at 2020-06-09T18:48:37.975
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+
+
+# Created at 2020-06-09T18:48:37.976
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+
+# Created at 2020-06-09T18:48:37.976
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+
+# Created at 2020-06-09T18:48:37.977
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+
+# Created at 2020-06-09T18:48:37.977
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+
+
+# Created at 2020-06-09T18:48:37.978
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
+
+
+# Created at 2020-06-09T18:48:37.978
+Unexpected IOException with stream: 	at com.vytrack.step_definitions.Hooks.tearDown(Hooks.java:23)
+
+
+# Created at 2020-06-09T18:48:37.978
+Unexpected IOException with stream: 
+
+
+# Created at 2020-06-09T18:48:37.979
+Unexpected IOException with stream: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HLEND38', ip: '192.168.43.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60179}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c72f90387c91522b1d042d325806c6b3
+
+
+# Created at 2020-06-09T18:48:37.979
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+
+# Created at 2020-06-09T18:48:37.980
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+
+
+# Created at 2020-06-09T18:48:37.980
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+
+# Created at 2020-06-09T18:48:37.981
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+
+
+# Created at 2020-06-09T18:48:37.981
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+
+
+# Created at 2020-06-09T18:48:37.981
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+
+
+# Created at 2020-06-09T18:48:37.982
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+
+
+# Created at 2020-06-09T18:48:37.982
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+
+
+# Created at 2020-06-09T18:48:37.982
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+
+# Created at 2020-06-09T18:48:37.983
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+
+# Created at 2020-06-09T18:48:37.983
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+
+# Created at 2020-06-09T18:48:37.984
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+
+
+# Created at 2020-06-09T18:48:37.984
+Unexpected IOException with stream: 	at com.vytrack.step_definitions.contactsStepDef.the_user_logged_in_as(contactsStepDef.java:33)
+
+
+# Created at 2020-06-09T18:48:37.985
+Unexpected IOException with stream: 	at ?.the user logged in as "driver"(file:///C:/Users/HP/IdeaProjects/fromgit/EU2CucumberSelenium/src/test/resources/features/contacts.feature:19)
+
+
+# Created at 2020-06-09T18:48:37.985
+Unexpected IOException with stream: 
+
+
+# Created at 2020-06-09T18:48:37.986
+Unexpected IOException with stream: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HLEND38', ip: '192.168.43.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60179}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c72f90387c91522b1d042d325806c6b3
+
+
+# Created at 2020-06-09T18:48:37.987
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+
+# Created at 2020-06-09T18:48:37.987
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+
+
+# Created at 2020-06-09T18:48:37.988
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+
+# Created at 2020-06-09T18:48:37.988
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+
+
+# Created at 2020-06-09T18:48:37.989
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+
+
+# Created at 2020-06-09T18:48:37.989
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+
+
+# Created at 2020-06-09T18:48:37.990
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+
+
+# Created at 2020-06-09T18:48:37.990
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+
+
+# Created at 2020-06-09T18:48:37.990
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+
+# Created at 2020-06-09T18:48:37.991
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+
+# Created at 2020-06-09T18:48:37.991
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+
+# Created at 2020-06-09T18:48:37.991
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+
+
+# Created at 2020-06-09T18:48:37.992
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
+
+
+# Created at 2020-06-09T18:48:37.992
+Unexpected IOException with stream: 	at com.vytrack.step_definitions.Hooks.tearDown(Hooks.java:23)
+
+
+# Created at 2020-06-09T18:48:37.993
+Unexpected IOException with stream: 
+
+
+# Created at 2020-06-09T18:48:37.993
+Unexpected IOException with stream: 
+
+
+# Created at 2020-06-09T18:48:37.994
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,com.vytrack.runners.CukesRunner,null,null,null
+
+
