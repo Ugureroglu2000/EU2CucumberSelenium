@@ -20,9 +20,9 @@ public class NavigationMenuSteps {
     public void user_is_on_login_page() {
         // Write code here that turns the phrase above into concrete actions
         System.out.println("User is in Log in Page");
-//        String Exp="hello";
-//        String Act="hi";
-//        Assert.assertEquals("lets see",Exp,Act);
+       String Exp="hello";
+       String Act="hi";
+       Assert.assertEquals("lets see",Exp,Act);
     }
     @When("User enters the valid credentials")
     public void user_enters_the_valid_credentials() {
@@ -66,8 +66,8 @@ public class NavigationMenuSteps {
     public void the_title_contains(String string) {
         BrowserUtils.waitFor(2);
         String ActTitle=Driver.get().getTitle();
-       // System.out.println(ActTitle);
-       // System.out.println(string);
+       System.out.println(ActTitle);
+       System.out.println(string);
         Assert.assertTrue(ActTitle.contains(string));
     }
 
