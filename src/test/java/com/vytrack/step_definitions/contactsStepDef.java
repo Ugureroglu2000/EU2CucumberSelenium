@@ -116,8 +116,9 @@ public class contactsStepDef {
 
     @Then("the user should be able to login")
     public void the_user_should_be_able_to_login() {
+        
     String title=Driver.get().getTitle();
-        System.out.println(title);
+        System.out.println(title+"title");
         Assert.assertEquals("Dashboard",title);
     }
 
