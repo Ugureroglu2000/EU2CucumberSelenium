@@ -27,10 +27,10 @@ public class LoginStepDef {
         String username=ConfigurationReader.get("driver_username");
         String password = ConfigurationReader.get("driver_password");
         LoginPage loginPage=new LoginPage();
-        loginPage.login(username,password);
-//        loginPage.userName.sendKeys(username);
-//        loginPage.password.sendKeys(password);
-//        loginPage.submit.click();
+//         loginPage.login(username,password);
+       loginPage.userName.sendKeys(username);
+       loginPage.password.sendKeys(password);
+       loginPage.submit.click();
     }
 
 
